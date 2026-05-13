@@ -1,14 +1,29 @@
-# API de Gerenciamento de Pagamentos de Mensalistas - Futebol
+# API Jogadores - Spring Boot
 
-## Integrantes
-- Angelo Cardoso João
-- Marcelo Parolim Dias
-- Gabriel
+API REST para gerenciamento de jogadores e seus pagamentos, desenvolvida com **Spring Boot**, **JPA/Hibernate** e banco de dados **H2** (em memória).
 
-## Descrição
-API REST simples desenvolvida com Node.js + Express + SQLite. Permite cadastrar jogadores e registrar pagamentos mensais.
+---
 
-## Como executar
-1. Instale Node.js (versão 14+)
-2. Baixe os arquivos (package.json e server.js)
-3. No terminal, execute:
+## 👥 Autores
+
+| Nome |
+|------|
+| Gabriel Azevedo Silva |
+| Angelo Cardoso Da Costa João |
+| Marcelo Parolim Dias |
+
+---
+
+## 🛠 Tecnologias
+
+- Java 17+
+- Spring Boot 3
+- Spring Web
+- Spring Data JPA
+- H2 Database
+- Lombok
+- Maven
+
+---
+
+## 📦 Estrutura do projeto
